@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": " hello! How are you today?"
+    },
+    {
+      "question": "how are you?",
+      "answer": " good! Thanks for asking, although I don't feel anything since i am a chatbot :) How about you?"
+    },
+    {
+      "question": "hello",
+      "answer": " good! Thanks for asking, although I don't feel anything since i am a chatbot :) How about you?"
+    },
+    {
+      "question": "how is the weather today?",
+      "answer": " Look out the window"
+    },
+    {
+      "question": "hello",
+      "answer": " Look out the window"
+    }
+  ]
+}
